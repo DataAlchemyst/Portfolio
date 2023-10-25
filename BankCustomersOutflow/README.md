@@ -1,7 +1,7 @@
 # Проект - Анализ оттока клиентов банка
 
 Просмотр в Nbviewer:
-https://nbviewer.org/github/DataAlchemyst/BankCustomersOutflow/blob/main/BankCustomersOutflow.ipynb
+https://nbviewer.org/github/DataAlchemyst/Portfolio/blob/main/BankCustomersOutflow/BankCustomersOutflow.ipynb
 
 ## Данные
 

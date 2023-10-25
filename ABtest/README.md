@@ -1,7 +1,7 @@
 # Проект - А/B-тестирование
 
 Просмотр в Nbviewer:
-https://nbviewer.org/github/DataAlchemyst/ABtest/blob/main/ABtest.ipynb
+https://nbviewer.org/github/DataAlchemyst/Portfolio/blob/main/ABtest/ABtest.ipynb
 
 ## Описание данных
 

@@ -4,6 +4,6 @@
 
 | #    | Наименование проекта                | Описание                                                     | Стек                                                         |
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 1.   | [А/B-тестирование](https://github.com/) | Проведение оценки результатов A/B теста <br/>для определения изменений, связанных с внедрением <br/>улучшенной рекомендательной системы показателей  | pandas plotly numpy matplotlib scipy statsmodel      |
-| 2.   | [Анализ оттока клиентов банка](https://github.com/) | Сегментация пользователей по потреблению <br/>с целью дальнейшего создания <br/>индвидуальных предложений   | pandas plotly seaborn matplotlib |
-| 3.   | [Рынок заведений общественного питания Москвы](https://github.com/) | Анализ рынка общепита для дальнейшего <br/>открытия заведения             | folium pandas plotly seaborn matplotlib |
+| 1.   | [А/B-тестирование](https://github.com/DataAlchemyst/Portfolio/tree/main/ABtest) | Проведение оценки результатов A/B теста <br/>для определения изменений, связанных с внедрением <br/>улучшенной рекомендательной системы показателей  | pandas plotly numpy matplotlib scipy statsmodel      |
+| 2.   | [Анализ оттока клиентов банка](https://github.com/DataAlchemyst/Portfolio/tree/main/BankCustomersOutflow) | Сегментация пользователей по потреблению <br/>с целью дальнейшего создания <br/>индвидуальных предложений   | pandas plotly seaborn matplotlib |
+| 3.   | [Рынок заведений общественного питания Москвы](https://github.com/DataAlchemyst/Portfolio/tree/main/MoscowFoodPlaces) | Анализ рынка общепита для дальнейшего <br/>открытия заведения             | folium pandas plotly seaborn matplotlib |

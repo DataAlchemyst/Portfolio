@@ -1,8 +1,7 @@
 # Проект - Рынок заведений общественного питания Москвы
 
 Просмотр в Nbviewer:
-https://nbviewer.org/github/DataAlchemyst/MoscowFoodPlaces/blob/main/MoscowFoodPlaces.ipynb
-
+https://nbviewer.org/github/DataAlchemyst/Portfolio/blob/main/MoscowFoodPlaces/MoscowFoodPlaces.ipynb
 ## Данные
 
  - name — название заведения;
